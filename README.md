@@ -1,3 +1,3 @@
 # claude-demo
 
-This repository is a small sandbox for trying out Claude's ability to work with GitHub repositories. It started as a single heading, and this paragraph was added by Claude as a test of reading, editing, and pushing changes. If you can see it on GitHub, the full round trip worked.
+这个仓库是一个小型沙盒，用来测试 Claude 处理 GitHub 仓库的能力。它最初只有一个标题，这段文字是由 Claude 添加的，用来测试读取、编辑和推送更改。如果你能在 GitHub 上看到这段文字，说明整个流程已经成功运行。
